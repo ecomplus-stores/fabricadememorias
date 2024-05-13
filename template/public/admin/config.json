@@ -1,8 +1,0 @@
-{
-    "backend": {
-        "name": "git-gateway",
-        "branch": "content",
-        "identity_url": "https://gotrue.ecomplus.biz/51488/.netlify/identity",
-        "gateway_url": "https://gitgateway.ecomplus.biz/51488/.netlify/git"
-    }
-}
