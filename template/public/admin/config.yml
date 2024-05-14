@@ -8,13 +8,11 @@ collections:
   - name: institutional-pages
     label: Institutional Pages
     identifier_field: name
-    extension: markdown
+    extension: md
     format: frontmatter
     folder: content/pages
     create: true
-    nested:
-      depth: 100
-      summary: '{{title}}'
+    path: '{{slug}}/index'
     fields:
       - name: title
         label: Título
@@ -31,3 +29,9 @@ collections:
       - name: body
         label: Conteúdo
         widget: markdown
+      - name: group
+        label: Grupo
+        widget: select
+        options:
+          - institucional
+          - pedidos

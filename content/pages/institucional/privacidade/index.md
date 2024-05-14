@@ -2,6 +2,7 @@
 title: Política de Privacidade
 meta_title: Política de Privacidade
 meta_description: Política de Privacidade
+group: institucional
 ---
 ### Política de Privacidade
 
