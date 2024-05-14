@@ -6,6 +6,8 @@ backend:
 media_folder: media/uploads
 collections:
   - name: Institutional Pages
+    label: institutional-pages
+    slug: institutional-pages
     identifier_field: name
     extension: markdown
     format: frontmatter
