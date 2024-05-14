@@ -1,7 +1,7 @@
 ---
-title: "Política de Privacidade",
-meta_title: "Política de Privacidade",
-meta_description: "Política de Privacidade",
+title: Política de Privacidade
+meta_title: Política de Privacidade
+meta_description: Política de Privacidade
 ---
 ### Política de Privacidade
 

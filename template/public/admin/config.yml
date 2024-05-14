@@ -11,8 +11,10 @@ collections:
     extension: markdown
     format: frontmatter
     folder: content/pages
+    create: true
     nested:
       depth: 100
+      summary: '{{title}}'
     fields:
       - name: title
         label: Título

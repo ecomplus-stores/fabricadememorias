@@ -1,7 +1,7 @@
 ---
-title: "Sobre nós",
-meta_title: "Sobre nós",
-meta_description: "Sobre nós",
+title: Sobre nós
+meta_title: Sobre nós
+meta_description: Sobre nós
 ---
 ### Sobre nós
 

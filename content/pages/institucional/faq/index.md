@@ -1,7 +1,7 @@
 ---
-title: "Dúvidas frequentes",
-meta_title: "Dúvidas frequentes",
-meta_description: "Dúvidas frequentes",
+title: Dúvidas frequentes
+meta_title: Dúvidas frequentes
+meta_description: Dúvidas frequentes
 ---
 ### Dúvidas frequentes
 

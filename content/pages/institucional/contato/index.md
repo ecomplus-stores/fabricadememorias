@@ -1,7 +1,7 @@
 ---
-title: "Contato",
-meta_title: "Contato",
-meta_description: "Contato",
+title: Contato
+meta_title: Contato
+meta_description: Contato
 ---
 ### Dúvidas frequentes
 
