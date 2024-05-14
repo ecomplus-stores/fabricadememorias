@@ -1,0 +1,22 @@
+backend:
+  name: git-gateway
+  branch: content
+  identity_url: https://gotrue.ecomplus.biz/51488/.netlify/identity
+  gateway_url: https://gitgateway.ecomplus.biz/51488/.netlify/git
+media_folder: media/uploads
+collections:
+  - name: Institutional Pages
+    identifier_field: name
+    extension: markdown
+    format: frontmatter
+    folder: content/pages
+    fields:
+      - label: Título
+        name: title
+        widget: string
+      - label: Publicado em
+        name: publishedAt
+        widget: datetime
+      - label: Conteúdo
+        name: body
+        widget: markdown

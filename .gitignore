@@ -7,7 +7,7 @@
 /template/**/storefront-template
 /template/public/assets/vendor/
 /template/scss/styles.scss
-/template/public/admin/config.yml
+# /template/public/admin/config.yml
 
 # Firebase credentials
 *firebase-admin*.json
