@@ -12,7 +12,7 @@ collections:
     format: frontmatter
     folder: content/pages
     create: true
-    path: '{{slug}}/index'
+    path: '{{group}}/{{slug}}/index'
     fields:
       - name: title
         label: Título
