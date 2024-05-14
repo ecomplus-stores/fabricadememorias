@@ -5,20 +5,27 @@ backend:
   gateway_url: https://gitgateway.ecomplus.biz/51488/.netlify/git
 media_folder: media/uploads
 collections:
-  - name: Institutional Pages
-    label: institutional-pages
-    slug: institutional-pages
+  - name: institutional-pages
+    label: Institutional Pages
     identifier_field: name
     extension: markdown
     format: frontmatter
     folder: content/pages
+    nested:
+      depth: 100
     fields:
-      - label: Título
-        name: title
+      - name: title
+        label: Título
         widget: string
-      - label: Publicado em
-        name: publishedAt
+      - name: meta_title
+        label: Meta Título
+        widget: string
+      - name: meta_description
+        label: Meta Descrição
+        widget: string
+      - name: publishedAt
+        label: Publicado em
         widget: datetime
-      - label: Conteúdo
-        name: body
+      - name: body
+        label: Conteúdo
         widget: markdown
