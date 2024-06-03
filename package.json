@@ -6,8 +6,8 @@
         "not ie_mob 11"
     ],
     "engines": {
-        "node": "20.13.1",
-        "npm": "^10.8.0"
+        "node": "20.14.0",
+        "npm": "^10.8.1"
     },
     "private": true,
     "name": "@ecomplus/storefront",
@@ -42,7 +42,7 @@
     },
     "dependencies": {
         "@ecomplus/storefront-template": "^2.0.0-beta.269",
-        "@netlify/zip-it-and-ship-it": "^9.33.2",
+        "@netlify/zip-it-and-ship-it": "^9.34.0",
         "firebase-tools": "^11.30.0"
     },
     "devDependencies": {
