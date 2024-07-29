@@ -6,7 +6,7 @@
         "not ie_mob 11"
     ],
     "engines": {
-        "node": "20.15.1",
+        "node": "20.16.0",
         "npm": "^10.8.2"
     },
     "private": true,
