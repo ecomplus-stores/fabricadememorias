@@ -7,7 +7,7 @@
     ],
     "engines": {
         "node": "20.15.1",
-        "npm": "^10.8.3"
+        "npm": "^10.9.0"
     },
     "private": true,
     "name": "@ecomplus/storefront",
@@ -42,8 +42,8 @@
     },
     "dependencies": {
         "@ecomplus/storefront-template": "^2.0.0-beta.274",
-        "@netlify/zip-it-and-ship-it": "^9.39.5",
-        "firebase-tools": "^13.20.1"
+        "@netlify/zip-it-and-ship-it": "^9.39.7",
+        "firebase-tools": "^13.20.2"
     },
     "devDependencies": {
         "browser-sync": "^3.0.3"
